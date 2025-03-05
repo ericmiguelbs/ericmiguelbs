@@ -1,4 +1,4 @@
-# Olá, me chamo Eric.
+# Olá, sou o Eric.
 Atualmente curso Sistemas de Informação na Faculdade Impacta.
 Possuo conhecimentos em Python, TML, CSS, JavaScript e MySQL.
 <div style='display: inline_block'><br>
